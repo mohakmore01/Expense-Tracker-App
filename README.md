@@ -41,6 +41,7 @@ Bash
 pip install -r requirements.txt
 
 Run the Pipeline:
+
 Generate Data: python src/generate_data.py
 Clean Data: python src/clean_data.py
 Save Plots: python src/generate_saved_plots.py
