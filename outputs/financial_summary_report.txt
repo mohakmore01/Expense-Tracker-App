@@ -1,0 +1,6 @@
+EXPENSE TRACKER - SNAPSHOT REPORT
+---------------------------------
+Total Transactions Analyzed: 200
+Total Income Recorded:   ₹2,008,874.00
+Total Expenses Recorded: ₹239,161.00
+Net Savings Pipeline:    ₹1,769,713.00
